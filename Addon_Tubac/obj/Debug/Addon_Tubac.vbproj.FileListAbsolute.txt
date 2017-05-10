@@ -1,0 +1,13 @@
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\bin\Debug\Addon_Tubac.exe.config
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\bin\Debug\Addon_Tubac.exe
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\bin\Debug\Addon_Tubac.pdb
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\bin\Debug\Addon_Tubac.xml
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Interop.SAPbouiCOM.dll
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.vbproj.ResolveComReference.cache
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.Resources.resources
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.vbproj.GenerateResource.Cache
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.exe
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.xml
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.pdb
+c:\users\criss\documents\visual studio 2015\Projects\Addon_Tubac\Addon_Tubac\obj\Debug\Addon_Tubac.vbprojResolveAssemblyReference.cache
